@@ -56,7 +56,9 @@ int main(){
 
 
 
-//////////// stack with array
+// * stack with array
+
+
 /*
 #include <iostream>
 using namespace std;
